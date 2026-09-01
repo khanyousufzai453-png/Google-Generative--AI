@@ -14,3 +14,8 @@ I completed this course to build a foundational understanding of Generative AI a
 
 ## Certificate
 Certificate of completion is included in this repository.
+## Course
+
+Google — Introduction to Generative AI
+
+[View Course](https://www.skills.google/profile/badges?credential_type=skill_badge)
